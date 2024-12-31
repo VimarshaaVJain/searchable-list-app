@@ -1,0 +1,18 @@
+{ "products" : [
+    {"id":1, "name": "Apple", "description": "Description of Product 1" },
+    { "id":2, "name": "Bottle", "description": "Description of Product 2" },
+    { "id":3, "name": "Coat", "description": "Description of Product 3" },
+    { "id":4, "name": "Door", "description": "Description of Product 4" },
+    { "id":5, "name": "Esparto", "description": "Description of Product 5" },
+    { "id":6, "name": "Fabrics", "description": "Description of Product 6" },
+    { "id":7, "name": "Grapes", "description": "Description of Product 7" },
+    { "id":8, "name": "Hazelnuts", "description": "Description of Product 8" },
+    { "id":9, "name": "Ice cream", "description": "Description of Product 9" },
+    { "id":10, "name": "Jute", "description": "Description of Product 10" },
+    { "id":11, "name": "Kiwi", "description": "Description of Product 11" },
+    { "id":12, "name": "Lemon", "description": "Description of Product 12" },
+    { "id":13, "name": "Mango", "description": "Description of Product 13" },
+    { "id":14, "name": "Notebook", "description": "Description of Product 14" },
+    { "id":15, "name": "Oats", "description": "Description of Product 15" }
+  ]
+}

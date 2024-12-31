@@ -1,0 +1,42 @@
+.container{
+    margin: 20px;
+}
+
+.search-bar {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  table {
+    width: 100%;
+
+    .mat-header-cell{
+        font-size: 14px;
+        font-weight: 700;
+    }
+  }
+  
+  button {
+    width: 15%;
+    background-color: blue;
+    border-radius: 4px;
+    color: white;
+    height: 53px;
+    margin: 10px;
+    vertical-align: baseline;
+    border: 1px solid blue;
+    padding: 10px;
+    margin-top: 2px;
+  }
+
+  mat-form-field{
+    width: 98%;
+  }
+
+  .mat-paginator {
+    position: absolute;
+  bottom: 15px;
+  width: 100%;
+  background: white; /* Optional: ensure it stays on top */
+  z-index: 1;        /* Ensures the paginator is above other content */
+  }
